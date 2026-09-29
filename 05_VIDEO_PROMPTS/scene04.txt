@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 04: The Vote
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Street beside Badra St #1103.
+Main action: He stops, studies the building, raises the device and scans nearby buildings and tax information.
+Camera: Close-up of vibrating device, over-shoulder hologram, slow push-in to building.
+Lighting and sound mood: Warm sunlight mixed with green holographic light.
+Dialogue/audio reference: Emerald: 'Vote request received. Badra Street eleven-oh-three.' Gladias: 'This is harder than it looks.'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.

@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 03: The Sky Bridge
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Veridia sky bridge.
+Main action: Gladias stops, turns left, and looks toward the mountain as his robe and hair move in the cold wind.
+Camera: Rear tracking shot followed by a 180-degree panoramic move.
+Lighting and sound mood: Cool afternoon light, wind, distant traffic.
+Dialogue/audio reference: Gladias: 'Pause. I want to enjoy the view.'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.

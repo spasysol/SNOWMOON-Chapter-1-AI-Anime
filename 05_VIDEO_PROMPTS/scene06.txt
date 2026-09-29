@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 06: The Concert
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Large outdoor concert venue.
+Main action: Gladias pushes through the crowd, adjusts his face covering and activates an audit interface.
+Camera: Fast crowd tracking shot, rotating move around Gladias, dramatic stage wide shot.
+Lighting and sound mood: Dramatic concert lighting, heavy rock/metal atmosphere.
+Dialogue/audio reference: Dreadknot Singer: 'LET THE FIRE RISE! LET THE WHOLE CITY HEAR US!'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.

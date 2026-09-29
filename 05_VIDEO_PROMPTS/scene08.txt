@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 08: The Accusation
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Concert crowd.
+Main action: Gladias scans for an exit, notices the decoy, and realizes he must escape.
+Camera: Extreme eye close-up, rapid POV scan, handheld chase perspective.
+Lighting and sound mood: Concert lights become threatening; crowd and heartbeat intensify.
+Dialogue/audio reference: Stranger: 'HEY! EVERYONE! IT'S AN ORDER MEMBER!' Gladias: 'No...'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.

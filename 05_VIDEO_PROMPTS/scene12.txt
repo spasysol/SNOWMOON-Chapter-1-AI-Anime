@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 12: The Anonymous Message
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Family dining room.
+Main action: Gladias lowers his food, reads the messages and his expression changes from relaxed to tense.
+Camera: Warm wide shot, sudden device close-up, extreme eye close-up, slow zoom.
+Lighting and sound mood: Warm room lighting gradually becomes colder around Gladias.
+Dialogue/audio reference: Anonymous: 'I saw you at the concert. I know that you are in the Order.' Anonymous: 'Don't worry. I'm not intending to report you for the bounty. But I do have a request.'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.

@@ -1,0 +1,10 @@
+SNOWMOON CHAPTER 1 — SCENE 02: The Drone
+Duration: 10 seconds. 16:9.
+Animate the supplied scene keyframe with real anime character motion.
+Location: Same walking path.
+Main action: Gladias looks upward, checks the device, relaxes; a young boy jumps and catches the drone.
+Camera: Quick upward tilt, close-up of Gladias's eye, dynamic slow-motion catch.
+Lighting and sound mood: Bright daylight, drone rotors, confirmation chime, child laughter.
+Dialogue/audio reference: Boy: 'Five points for me!' Emerald: 'The device is verified. No threat detected.'
+Motion requirements: natural walking/running weight, believable hand and arm motion, blinking, eye direction, facial acting, cloth physics, environmental motion and continuous camera movement. Avoid frozen poses and slideshow animation.
+Continuity lock: same character reference, costume, face, hair, hand device, scale and color palette as previous scenes.
