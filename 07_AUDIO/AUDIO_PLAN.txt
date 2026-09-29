@@ -1,0 +1,15 @@
+SNOWMOON CHAPTER 1 — AUDIO PLAN
+01 Ambient Meldan: birds, leaves, distant city
+02 Drone: rotor, UI confirmation, child laugh
+03 Skybridge: cold wind, traffic, low orchestral bed
+04-05 Voting: holographic UI, subtle electronic pulses
+06-09 Concert: original rock/metal instrumental, crowd, footsteps, heartbeat
+10 Autobus: vehicle hum, interior ambience
+11 Home: warm room tone, footsteps, family ambience
+12 Cliffhanger: notification chime, silence drop, suspense drone
+
+Mixing target:
+- Dialogue clearly above ambience.
+- Keep environmental sound continuous between scenes.
+- Duck music under dialogue.
+- Scene 12 ends with a hard cut to silence after the cliffhanger.
