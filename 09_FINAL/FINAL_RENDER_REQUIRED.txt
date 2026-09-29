@@ -1,0 +1,4 @@
+Target filename: Snowmoon_Chapter1.mp4
+Duration: 120 seconds
+Resolution: 1920x1080 recommended
+Status: render target only; no fabricated video included.
