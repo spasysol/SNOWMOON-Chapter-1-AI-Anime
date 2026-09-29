@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 06: The Concert
+10-second cinematic anime image-generation reference.
+Location: Large outdoor concert venue.
+Visual prompt: Gladias enters a massive concert surrounded by a soundproof barrier. Attendees dance under dramatic lights; Dreadknot performs on a futuristic stage.
+Character action: Gladias pushes through the crowd, adjusts his face covering and activates an audit interface.
+Camera composition: Fast crowd tracking shot, rotating move around Gladias, dramatic stage wide shot.
+Lighting/audio mood reference: Dramatic concert lighting, heavy rock/metal atmosphere.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

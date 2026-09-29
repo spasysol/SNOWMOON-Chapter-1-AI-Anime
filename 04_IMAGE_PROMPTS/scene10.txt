@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 10: The Autobus
+10-second cinematic anime image-generation reference.
+Location: Veridian autonomous autobus.
+Visual prompt: Gladias jumps onto a nearly empty futuristic autobus. Two privacy-robed passengers sit nearby and a teenager with a backpack sits across the aisle.
+Character action: He checks the window to make sure nobody followed, then relaxes and notices the advertisements.
+Camera composition: Exterior follow shot, interior tracking shot, close-up through window.
+Lighting/audio mood reference: Soft evening city light, quiet autobus ambience.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

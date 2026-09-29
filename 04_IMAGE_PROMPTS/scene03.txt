@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 03: The Sky Bridge
+10-second cinematic anime image-generation reference.
+Location: Veridia sky bridge.
+Visual prompt: The path rises into a sky bridge above a busy road. Autonomous buses, cars and delivery vehicles pass below. A forest-covered mountain and castle-like apartment towers fill the distance.
+Character action: Gladias stops, turns left, and looks toward the mountain as his robe and hair move in the cold wind.
+Camera composition: Rear tracking shot followed by a 180-degree panoramic move.
+Lighting/audio mood reference: Cool afternoon light, wind, distant traffic.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

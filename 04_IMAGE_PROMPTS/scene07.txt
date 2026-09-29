@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 07: Prediction Score 92
+10-second cinematic anime image-generation reference.
+Location: Concert crowd.
+Visual prompt: Close-up of Gladias's hand device showing 'Prediction Score: 92'. Anonymous Acolyte messages appear beside it.
+Character action: He listens, switches Emerald to analysis mode, studies the rubric, then looks toward the stage.
+Camera composition: Hologram close-up, rack focus to eyes, cut to stage.
+Lighting/audio mood reference: Dark venue, glowing interface, muffled music and rising heartbeat.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

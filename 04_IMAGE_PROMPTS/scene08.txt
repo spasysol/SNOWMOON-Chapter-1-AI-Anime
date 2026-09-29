@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 08: The Accusation
+10-second cinematic anime image-generation reference.
+Location: Concert crowd.
+Visual prompt: A man suddenly shouts that an Order member is present. Gladias freezes. The crowd turns. Another privacy-robed person runs toward a fire exit as a decoy.
+Character action: Gladias scans for an exit, notices the decoy, and realizes he must escape.
+Camera composition: Extreme eye close-up, rapid POV scan, handheld chase perspective.
+Lighting/audio mood reference: Concert lights become threatening; crowd and heartbeat intensify.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

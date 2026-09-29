@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 11: Home
+10-second cinematic anime image-generation reference.
+Location: Gladias and Seila's home.
+Visual prompt: Gladias opens the door to a warm futuristic family home. Seila greets him. Zven runs down the stairs and jumps into his arms. Febric follows with a compute box. Lily emerges looking sad.
+Character action: Gladias hugs Zven, talks with Seila and Febric, then notices Lily's disappointment.
+Camera composition: Doorway medium shot, dynamic stair follow, close-up of Lily.
+Lighting/audio mood reference: Warm cozy interior lighting, family ambience.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.

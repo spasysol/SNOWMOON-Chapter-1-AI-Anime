@@ -1,0 +1,9 @@
+SNOWMOON CHAPTER 1 — SCENE 01: The Peaceful City
+10-second cinematic anime image-generation reference.
+Location: Meldan, Veridia - Kalimar district.
+Visual prompt: Wide cinematic establishing shot of futuristic medieval-inspired Meldan. Tall green trees line a peaceful path. Stone-brick houses blend naturally into plants. Gladias walks calmly in his dark purple Privacy Robe.
+Character action: Gladias walks slowly, looks left and right, breathes deeply and briefly closes his eyes.
+Camera composition: Slow aerial establishing shot, descending behind Gladias into a side tracking shot.
+Lighting/audio mood reference: Soft morning sunlight, birds, gentle wind, distant city ambience.
+Continuity: Use the master Gladias reference; preserve identical face, dark brown hair, dark purple Veridian Privacy Robe, hand device, proportions and accessories. Maintain the established SNOWMOON futuristic-medieval anime world. 16:9, cinematic anime keyframe, detailed background, expressive face, clean anatomy.
+Negative: static pose, slideshow look, character redesign, inconsistent clothing, deformed hands, extra fingers, blurry face, watermark, random text.
