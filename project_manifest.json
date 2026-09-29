@@ -1,0 +1,128 @@
+{
+  "project": {
+    "title": "SNOWMOON - Chapter 1: Gladias",
+    "source": "Vitalik Buterin - Snowmoon Fiction",
+    "chapter": 1,
+    "format": "AI Anime Cinematic Short",
+    "total_duration_seconds": 120,
+    "scene_duration_seconds": 10,
+    "aspect_ratio": "16:9",
+    "visual_style": "high-quality cinematic Japanese anime, futuristic medieval fantasy, detailed backgrounds, expressive characters, dynamic camera movement",
+    "voice_style": "professional anime-style dubbed voices with natural emotional acting",
+    "language": "English dialogue with anime voice acting",
+    "consistency_rule": "All characters, clothing, facial features, proportions, colors and accessories must remain identical between scenes"
+  },
+  "characters": {
+    "Gladias": {
+      "role": "main protagonist",
+      "appearance": "slim young man, sharp but gentle facial features, medium-length dark brown hair, calm intelligent eyes",
+      "outfit": "dark purple Veridian Privacy Robe covering the entire body, hood over head, dark purple shoes, face covering around the lower face",
+      "accessories": "futuristic hand device, silken neck cloth",
+      "personality": "thoughtful, analytical, observant, cautious, occasionally mischievous",
+      "voice": "young adult male anime voice, calm and intelligent, medium-low pitch"
+    },
+    "Emerald": {
+      "role": "AI assistant",
+      "appearance": "subtle emerald-green holographic interface",
+      "voice": "female AI anime voice, elegant, calm, precise and slightly warm"
+    },
+    "Seila": {
+      "role": "Gladias's partner",
+      "appearance": "young adult woman, warm expression, long dark hair, elegant casual futuristic clothing",
+      "personality": "kind, intelligent, affectionate and relaxed",
+      "voice": "warm female anime voice"
+    },
+    "Zven": {
+      "role": "young family member",
+      "appearance": "energetic young boy, short dark hair, lively eyes",
+      "personality": "playful and energetic",
+      "voice": "young boy anime voice"
+    },
+    "Febric": {
+      "role": "older teenage family member",
+      "appearance": "teenage boy, slightly messy dark hair, casual clothing, carries a compute box",
+      "personality": "quiet, intelligent, slightly competitive",
+      "voice": "teenage male anime voice"
+    },
+    "Lily": {
+      "role": "young family member",
+      "appearance": "young girl, dark hair, shy expression",
+      "personality": "sensitive and quiet",
+      "voice": "young female anime voice, soft and emotional"
+    },
+    "DreadknotSinger": {
+      "role": "concert lead singer",
+      "appearance": "large intimidating rock/metal vocalist, long wild hair, dramatic stage costume",
+      "voice": "deep aggressive professional rock/metal anime vocalist"
+    }
+  },
+  "scenes": [
+    {
+      "scene": 1,
+      "title": "The Peaceful City",
+      "location": "Meldan, Veridia - Kalimar district"
+    },
+    {
+      "scene": 2,
+      "title": "The Drone",
+      "location": "Same walking path"
+    },
+    {
+      "scene": 3,
+      "title": "The Sky Bridge",
+      "location": "Veridia sky bridge"
+    },
+    {
+      "scene": 4,
+      "title": "The Vote",
+      "location": "Street beside Badra St #1103"
+    },
+    {
+      "scene": 5,
+      "title": "The Decision",
+      "location": "Same street"
+    },
+    {
+      "scene": 6,
+      "title": "The Concert",
+      "location": "Large outdoor concert venue"
+    },
+    {
+      "scene": 7,
+      "title": "Prediction Score 92",
+      "location": "Concert crowd"
+    },
+    {
+      "scene": 8,
+      "title": "The Accusation",
+      "location": "Concert crowd"
+    },
+    {
+      "scene": 9,
+      "title": "The Escape",
+      "location": "Concert exit"
+    },
+    {
+      "scene": 10,
+      "title": "The Autobus",
+      "location": "Veridian autonomous autobus"
+    },
+    {
+      "scene": 11,
+      "title": "Home",
+      "location": "Gladias and Seila's home"
+    },
+    {
+      "scene": 12,
+      "title": "The Anonymous Message",
+      "location": "Family dining room"
+    }
+  ],
+  "production": {
+    "scene_count": 12,
+    "scene_duration_seconds": 10,
+    "total_duration_seconds": 120,
+    "audio_required": true,
+    "final_video_target": "09_FINAL/Snowmoon_Chapter1.mp4"
+  }
+}
