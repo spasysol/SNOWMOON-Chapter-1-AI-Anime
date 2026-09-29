@@ -1,0 +1,24 @@
+SNOWMOON CHAPTER 1 — EDIT PLAN
+Timeline: 12 x 10-second scenes = 02:00.
+Aspect ratio: 16:9.
+Editing rhythm:
+01-03 slow cinematic world-building.
+04-05 analytical UI and decision tension.
+06-09 faster cuts and action.
+10 decompression.
+11 warm family pacing.
+12 sudden silence + suspense cliffhanger.
+
+Transitions:
+01->02 match-motion drone pass
+02->03 upward camera movement
+03->04 natural walking cut
+04->05 UI match cut
+05->06 hard music cut
+06->07 close-up match
+07->08 sound drop
+08->09 whip-pan transition
+09->10 vehicle motion match
+10->11 door match cut
+11->12 notification sound bridge
+End: hard cut to black + TO BE CONTINUED.
