@@ -3,7 +3,6 @@
 
 **Submission ID:** `c16da4f2-6a18-4a9f-a4c8-8f78818957ea`  
 **Bounty Link:** https://pump.fun/go/5e47cb92-32d4-4e63-8538-3776a5c0bbab  
-**Status:** CLOSED - MODERATION REVIEW (23 submissions, 0 winner picked by creator)  
 **Creator:** CanyonRiftChime  
 **My Repo:** https://github.com/spasysol/SNOWMOON-Chapter-1-AI-Anime
 
