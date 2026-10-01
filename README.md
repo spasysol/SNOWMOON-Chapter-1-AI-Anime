@@ -13,7 +13,7 @@
 
 ### 🎬 FINAL VIDEO - 120 Seconds Cinematic
 
-**▶️ Watch Final Render:** [LINK_YOUTUBE_UNLISTED_KAMU_DISINI]  
+**▶️ Watch Final Render:** [https://youtube.com/shorts/jSfqBYziOmg?si=kGBHpvu5HJ-hKQOe]  
 **📁 Local File:** `09_FINAL/Snowmoon_Chapter1.mp4`  
 **🎙️ Voice Files:** `06_VOICE/` & `07_AUDIO/` (Real anime dubbed via ElevenLabs)
 
