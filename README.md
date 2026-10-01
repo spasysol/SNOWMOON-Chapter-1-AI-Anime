@@ -1,4 +1,7 @@
 # SNOWMOON CHAPTER 1 — AI ANIME PRODUCTION PACKAGE
+
+<img width="1376" height="768" alt="2cffe14d-ae43-4cac-879f-bd00a7481c6a" src="https://github.com/user-attachments/assets/d1e29d48-7d83-441b-ae5b-1229053d6aac" />
+
 ### Bounty Submission: Short AI Anime Video for Vitalik's Fiction Story ($160.84)
 
 **Submission ID:** `c16da4f2-6a18-4a9f-a4c8-8f78818957ea`  
