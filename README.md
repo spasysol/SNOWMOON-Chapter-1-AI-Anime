@@ -103,8 +103,9 @@ Files:
 
 ### 🔗 IMPORTANT LINKS
 
-- Final Video (YouTube): [PASTE HERE]
-- Final Video (Drive): [PASTE HERE]
+- Final Video (YouTube): [https://youtube.com/shorts/jSfqBYziOmg?si=kGBHpvu5HJ-hKQOe]
+- Final Video (Drive): [https://drive.google.com/file/d/1snUHH34HOa5sXtMmTXdrk3u22-M5U3Wf/view?usp=drive_link]
+- Final Video (X): [https://x.com/Spacy_Sol/status/2104492359228743820?s=20]
 - Bounty Submission Page: https://pump.fun/go/5e47cb92-32d4-4e63-8538-3776a5c0bbab/submissions/c16da4f2-6a18-4a9f-a4c8-8f78818957ea
 - Vitalik Source: vitalik.eth.limo (SNOWMOON Chapter 1)
 
