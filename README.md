@@ -82,7 +82,7 @@ This ensures same character for all future bounty chapters.
 ### 🎙️ VOICE - Real Anime Dubbed
 
 **Tool:** ElevenLabs - Eleven Multilingual v2  
-**Voice Model:** Rachel (Anime) / Bella - Stability 40%, Similarity 75%, Style Exaggeration 60%  
+**Voice Model:** Ishibashi (Anime) / Bella - Stability 40%, Similarity 75%, Style Exaggeration 60%  
 **Direction:** Emotional, breathy, Japanese anime teen intonation, not robotic
 
 Files:
@@ -95,7 +95,7 @@ Files:
 ### 🛠️ TECH STACK
 
 - **Image:** Midjourney / Stable Diffusion XL + Character Sheet Master
-- **Video:** Kling AI / Runway Gen-3 / Luma Dream Machine (for motion)
+- **Video:** Kimi K3 / Qwen 3.8 Flash / Omni 1.1 Flash (for motion)
 - **Voice:** ElevenLabs (Real anime dubbed)
 - **Edit:** CapCut Pro + Premiere Pro
 - **Upscale:** Topaz Video AI to 1080p
